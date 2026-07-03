@@ -10,6 +10,8 @@ This dashboard is where caregivers:
 - Schedule recurring check-in calls with a date/time picker
 - Review call logs: what the patient said, medication adherence, flagged concerns
 
+![Caregiver registration](docs/signup.png)
+
 ## Stack
 
 - **Next.js** (App Router) + TypeScript
